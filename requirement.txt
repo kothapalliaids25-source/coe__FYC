@@ -1,5 +1,6 @@
+
 streamlit
-pillow
-opencv-python-headless
+Pillow
 numpy
-fpdf
+opencv-python-headless
+fpdf2==2.7.8
